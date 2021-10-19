@@ -20,7 +20,7 @@ module.exports = {
     SESSION: process.env.ASENA_SESSION === undefined ? '' : process.env.ASENA_SESSION,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
-    AFN: process.env.ALL_CAPTION === undefined ? 'Made By NITRO' : process.env.ALL_CAPTION,
+    AFN: process.env.ALL_CAPTION === undefined ? 'Made By Pikachu' : process.env.ALL_CAPTION,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
@@ -32,7 +32,7 @@ module.exports = {
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
-    GIF_WEL: process.env.GIF_WEL === undefined ? 'https://c.tenor.com/QNtFLycfQiAAAAPo/pika-NITRO.mp4' : process.env.GIF_WEL,
+    GIF_WEL: process.env.GIF_WEL === undefined ? 'https://c.tenor.com/QNtFLycfQiAAAAPo/pika-pikachu.mp4' : process.env.GIF_WEL,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://c.tenor.com/CIDOwXeJO4gAAAPo/pokemon-wave.mp4' : process.env.GIF_BYE,
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
@@ -46,7 +46,7 @@ module.exports = {
     PROMOTEMSG: process.env.PROMOTE_MESSAGE === undefined ? 'default' : process.env.PROMOTE_MESSAGE,
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
-    BOTSK: process.env.BOT_NAME === undefined ? 'NITRO BOT' : process.env.BOT_NAME,
+    BOTSK: process.env.BOT_NAME === undefined ? '𝐏𝐈𝐊𝐀𝐂𝐇𝐔 𝐁𝐎𝐓' : process.env.BOT_NAME,
     LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.pinimg.com/originals/0e/c8/8c/0ec88ca1469125fc11b4ce76830602f4.jpg' : process.env.ALL_IMG,
     SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://www.instagram.com/ameer_.su_hail/' : process.env.SOCIAL_MEDIA,
     TAGPLK: process.env.TAG_HEADER === undefined ? '*Attention please 📢*' : process.env.TAG_HEADER,
@@ -71,6 +71,7 @@ module.exports = {
     SUPPORT2: "919074309534-1632403322",
     SUPPORT3: "905511384572-1621015274"
 };
+
 
 
 
