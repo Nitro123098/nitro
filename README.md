@@ -51,7 +51,7 @@ Project created by <a href="https://github.com/Nitro123098">Nitro123098</a> to m
 Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/C8WikYAz9ABJ2kUaCaE1Jj" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/C8WikYAz9ABJ2kUaCaE1Jj" target="blank"><img align="center" src="IMG_20211019_151043.jpg"alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
@@ -60,7 +60,7 @@ Click WA logo to Join Support Group ðŸ‘‡
 Click NITRO logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="IMG_20211019_151043.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
