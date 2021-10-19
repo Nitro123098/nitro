@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/Nitro123098">Nitro123098</a> to m
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_nitr_o?utm_medium=copy_linkm=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot ðŸ‘‡:</h4>
 <p align="center">
@@ -60,7 +60,7 @@ Click WA logo to Join Support Group ðŸ‘‡
 Click NITRO logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="IMG_20211019_151043.jpg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/BWKYd25NhBpATguIgn9MLV" target="blank"><img align="center" src="IMG_20211019_151043.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
